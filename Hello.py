@@ -26,6 +26,8 @@ def run():
 
     st.write("# Minha Experiência no IEEE")
 
+    st.sidebar.image(src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/2560px-IEEE_logo.svg.png')
+
     st.markdown(
         """
         Streamlit is an open-source app framework built specifically for
